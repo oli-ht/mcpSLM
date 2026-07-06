@@ -1,0 +1,12 @@
+# Local embedding pipeline (install alongside base requirements)
+pymupdf>=1.24.0
+llama-index-core>=0.11.0
+qdrant-client>=1.11.0
+sentence-transformers>=3.0.0
+rank-bm25>=0.2.2
+torch>=2.2.0
+openpyxl>=3.1.0
+pandas>=2.0.0
+
+# Optional: Cohere reranking (set COHERE_API_KEY to enable)
+# cohere>=5.0.0

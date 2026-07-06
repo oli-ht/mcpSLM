@@ -1,0 +1,23 @@
+# Secrets & local config
+.env
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Local logs
+local_rag_index.log
+
+# OS / editor
+.DS_Store
+.vscode/
+*.code-workspace
+
+# Test files
+test_paper*.pdf

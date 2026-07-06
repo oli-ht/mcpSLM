@@ -1,0 +1,278 @@
+{
+  "text_dir": "/Users/oceanali/Downloads/Clean TXT",
+  "metadata_xlsx": "/Users/oceanali/mcpSLM/sample_metadata.xlsx",
+  "file_count": 54,
+  "chunk_count": 1123,
+  "files": [
+    {
+      "file_name": "A et al. - 2025 - Groundwater salinization and suitability assessment in the coastal aquifer of the Thiruvallur distri.txt",
+      "document_id": "d301e3a8f53f886e",
+      "chunk_count": 15
+    },
+    {
+      "file_name": "Abadi et al. - 2025 - Assessing the suitability of water for irrigation purposes using irrigation water quality indices in.txt",
+      "document_id": "6cc08b6e9fee6b88",
+      "chunk_count": 22
+    },
+    {
+      "file_name": "Afzal et al. - 2025 - Application of fertigation using biotreated agro-industrial wastewater (with Bacillus paramycoide.txt",
+      "document_id": "5e2ef73f7c3a26a2",
+      "chunk_count": 22
+    },
+    {
+      "file_name": "Akhter and Ahanger - 2025 - Uncertainty in Evapotranspiration Inputs Impacts Hydrological Modeling.txt",
+      "document_id": "12daaa09549bd511",
+      "chunk_count": 22
+    },
+    {
+      "file_name": "Asfahani - 2025 - Vertical electrical sounding technique for evaluating and characterizing weathered Neogene basaltic.txt",
+      "document_id": "7c4c8bac56915ea4",
+      "chunk_count": 21
+    },
+    {
+      "file_name": "Bady et al. - 2025 - Tracking ground water quality changes in Wadi El-Assiuti, Assiut, Egypt.txt",
+      "document_id": "15e1f92a435e8d83",
+      "chunk_count": 22
+    },
+    {
+      "file_name": "Breitenmoser et al. - 2025 - Technology evaluation and impact assessment of innovative wastewater treatment and resource recovery.txt",
+      "document_id": "e39dd94c9f90cc45",
+      "chunk_count": 29
+    },
+    {
+      "file_name": "Chandaniha et al. - 2025 - Identification of sustainable groundwater recharge plan using AHP-, RS-, and GIS-based MCDA a case.txt",
+      "document_id": "80d96a003116e898",
+      "chunk_count": 25
+    },
+    {
+      "file_name": "Cheenakula et al. - 2025 - Investigation of particle size distribution and ultrafiltration of digestates from short-fibre resid.txt",
+      "document_id": "ab9e81fe8480b316",
+      "chunk_count": 27
+    },
+    {
+      "file_name": "Chen and Ding - 2025 - Systematic bibliographic analysis of heavy metal remediation.txt",
+      "document_id": "abd117f061355eae",
+      "chunk_count": 13
+    },
+    {
+      "file_name": "Chen and Wu - 2025 - Causal mechanisms of 100 accidents in sewage system facilities.txt",
+      "document_id": "75bf3e2dd04c16df",
+      "chunk_count": 17
+    },
+    {
+      "file_name": "Dorafshan et al. - 2025 - Risk analysis of inflow to the Zayandehrud Dam under historical and future scenarios using reliabili.txt",
+      "document_id": "29f0b8d57ee39574",
+      "chunk_count": 31
+    },
+    {
+      "file_name": "Du et al. - 2025 - Removal of dissolved organic matter in road runoff with sludge-based filters from the drinking water.txt",
+      "document_id": "5e5958d6921ef510",
+      "chunk_count": 19
+    },
+    {
+      "file_name": "Elazhar et al. - 2025 - Hybrid nanofiltration\u2013electrodialysis system efficiency in nitrate removal optimization by RSM and.txt",
+      "document_id": "f2cc097851350286",
+      "chunk_count": 14
+    },
+    {
+      "file_name": "Eshetu et al. - 2025 - Water quality challenges in rural Ethiopia insights from the North Mecha district on physiochemical.txt",
+      "document_id": "7c5f0264d47da3f9",
+      "chunk_count": 18
+    },
+    {
+      "file_name": "Falcone et al. - 2025 - Microbiological characterization of drinking water and socio-environmental study in the peri-urban a.txt",
+      "document_id": "6246a288c18d0f53",
+      "chunk_count": 15
+    },
+    {
+      "file_name": "Feng et al. - 2025 - Formation mechanism of injured bacteria after disinfection with epigallocatechin gallate (EGCG) as a.txt",
+      "document_id": "3c7ce4d809126b41",
+      "chunk_count": 20
+    },
+    {
+      "file_name": "Frincu - 2025 - Artificial intelligence in water quality monitoring A review of water quality assessment applicatio.txt",
+      "document_id": "737d376e7b95b579",
+      "chunk_count": 20
+    },
+    {
+      "file_name": "Kaur and Chavan - 2025 - Assessing the impacts of land use and climate change on streamflow generation in the Nowrangpur catc.txt",
+      "document_id": "c060b8321c02e7e3",
+      "chunk_count": 30
+    },
+    {
+      "file_name": "Kaur et al. - 2025 - Prediction of water quality and LULC analysis using machine learning and geospatial techniques.txt",
+      "document_id": "71fe0ba14725b345",
+      "chunk_count": 23
+    },
+    {
+      "file_name": "Koltsova et al. - 2025 - Mechanisms for removing phosphorus species through sequential coagulation using inorganic coagulants.txt",
+      "document_id": "a3c59a7e68006305",
+      "chunk_count": 22
+    },
+    {
+      "file_name": "Latif and Elansary - 2025 - Implementation of a convenient method in water network simulation to maximize the benefit of pressur.txt",
+      "document_id": "1a03e2a0bdb750f7",
+      "chunk_count": 15
+    },
+    {
+      "file_name": "Li et al. - 2025 - Cluster analysis-based hydrological similarity assessment in small watersheds of Shandong Province_s.txt",
+      "document_id": "496952791bed13ac",
+      "chunk_count": 14
+    },
+    {
+      "file_name": "Lu et al. - 2025 - Effects of magnetotactic bacteria (MTB) on membrane fouling control in an ultrafiltration treatment.txt",
+      "document_id": "d7328d5b4d2d292f",
+      "chunk_count": 24
+    },
+    {
+      "file_name": "Luviano Soto et al. - 2025 - Water quality polluted by total suspended solids classified within an artificial neural network appr.txt",
+      "document_id": "a8b3503677c9e709",
+      "chunk_count": 18
+    },
+    {
+      "file_name": "Majumdar et al. - 2025 - Probabilistic assessment of peak discharge and debris flow concentration in the Surma River using Mo.txt",
+      "document_id": "cac603d060458401",
+      "chunk_count": 21
+    },
+    {
+      "file_name": "Mardi et al. - 2025 - Water impact analysis due to coal-electricity generation using the life cycle assessment method a c.txt",
+      "document_id": "8137cffaf593ecf9",
+      "chunk_count": 18
+    },
+    {
+      "file_name": "Marselina et al. - 2025 - Comparative analysis of water quality index based on seasonal differences in the upstream Citarum wa.txt",
+      "document_id": "af006efeee34e149",
+      "chunk_count": 19
+    },
+    {
+      "file_name": "Oberascher et al. - 2025 - Using digitalisation for a real-word implementation of an early warning system for water leakages.txt",
+      "document_id": "d85603c7e4e8239d",
+      "chunk_count": 18
+    },
+    {
+      "file_name": "O\u0308zcan et al. - 2025 - Assessment of climate change for predicting water\u2013energy\u2013food\u2013ecosystem nexus vulnerability in a sem.txt",
+      "document_id": "a3fb8194eff7fd0c",
+      "chunk_count": 36
+    },
+    {
+      "file_name": "Panchal and Yadav - 2025 - A comparative analysis of innovative MADM technique BHARAT and Hall_s statistical approach to design.txt",
+      "document_id": "d72cd9aee40b4537",
+      "chunk_count": 17
+    },
+    {
+      "file_name": "Parihar et al. - 2025 - Geochemical assessment of groundwater quality using Nemerov_s pollution index a micro-level study i.txt",
+      "document_id": "5ef7ef82452b9df8",
+      "chunk_count": 11
+    },
+    {
+      "file_name": "Praveen et al. - 2025 - Assessment of irrigation water management using FAO-CROPWAT 8 in the Paliganj distributary of the So.txt",
+      "document_id": "3fcca64f3da0d086",
+      "chunk_count": 14
+    },
+    {
+      "file_name": "Rabbi et al. - 2025 - Waste-derived substrates in vertical-flow constructed wetlands for an efficient removal of high-conc.txt",
+      "document_id": "d04cfada0301c201",
+      "chunk_count": 25
+    },
+    {
+      "file_name": "Ramakrishnan et al. - 2025 - Microplastic pollution \u2013 a rising threat along an urban lake in the Vellore district of Tamil Nadu,.txt",
+      "document_id": "390dda8a7c168e67",
+      "chunk_count": 20
+    },
+    {
+      "file_name": "Reddy et al. - 2025 - Enhancing the efficiency of solar-powered water distillation units by utilization of waste heat.txt",
+      "document_id": "8892341739171667",
+      "chunk_count": 17
+    },
+    {
+      "file_name": "Rejula et al. - 2025 - Decentralized water quality classification using federated learning with recurrent neural networks.txt",
+      "document_id": "e0079fc70d823482",
+      "chunk_count": 16
+    },
+    {
+      "file_name": "Rokstad et al. - 2025 - Pardon my trench reflections on the uptake of trenchless technologies in the Norwegian water sector.txt",
+      "document_id": "62273c4be9c8885c",
+      "chunk_count": 15
+    },
+    {
+      "file_name": "Rzigui et al. - 2025 - Shallow groundwater salinization risks under climate change FEFLOW model application in Cebala Borj.txt",
+      "document_id": "96e9110e2baec078",
+      "chunk_count": 14
+    },
+    {
+      "file_name": "Salubi et al. - 2025 - Climate change and waterborne diseases in temperate regions a systematic review.txt",
+      "document_id": "f8b7efc33aa5a007",
+      "chunk_count": 32
+    },
+    {
+      "file_name": "Shashivardhan Reddy et al. - 2025 - GLOF in the South Lhonak Lake, India photogrammetric analysis and estimation.txt",
+      "document_id": "59e56ab96c18c464",
+      "chunk_count": 19
+    },
+    {
+      "file_name": "Sudalaimuthu et al. - 2025 - Nuclear power plant waste heat opens a window of next-generation desalination hybridization a SOAR-.txt",
+      "document_id": "1fb482618944002f",
+      "chunk_count": 18
+    },
+    {
+      "file_name": "Teuber et al. - 2025 - CFD simulation of turbulent mass transfer of H2S and O2 in a stirring tank.txt",
+      "document_id": "544dee78eefb85cd",
+      "chunk_count": 14
+    },
+    {
+      "file_name": "U. P. et al. - 2025 - Groundwater quality assessment for drinking and irrigation A case study in the Cauvery River Basin.txt",
+      "document_id": "3565553f03b38f19",
+      "chunk_count": 19
+    },
+    {
+      "file_name": "Unimke et al. - 2025 - Microbial\u2013physicochemical interplay in Iko River estuary, unraveling the hidden mystery in bioremedi.txt",
+      "document_id": "a6047dfb6df655a6",
+      "chunk_count": 28
+    },
+    {
+      "file_name": "Wang et al. - 2025 - Mid-resolution regional terrestrial water storage simulation using WRF over Central Asia.txt",
+      "document_id": "6e1d2937659ae798",
+      "chunk_count": 15
+    },
+    {
+      "file_name": "Yadav et al. - 2025 - Deciphering geospatial variations in water quality of a perennial river for human consumption and ag.txt",
+      "document_id": "1dc2b1279afa4939",
+      "chunk_count": 29
+    },
+    {
+      "file_name": "Yao et al. - 2025 - Enhanced purification efficacy of the microflocculation\u2013ultrafiltration process for raw water qualit.txt",
+      "document_id": "d1be75467fb56ece",
+      "chunk_count": 15
+    },
+    {
+      "file_name": "Yoshe - 2025 - Land use land cover detections using MODIS MCD12Q1 V6.1 and ESRI Sentinel-2 datasets in the Lake Cha.txt",
+      "document_id": "27f4df4e472f6642",
+      "chunk_count": 34
+    },
+    {
+      "file_name": "Zeng et al. - 2025 - Influence of sewage effluent discharge on putative pathogen community in drinking water sources ins.txt",
+      "document_id": "637c9919392043b4",
+      "chunk_count": 22
+    },
+    {
+      "file_name": "Zhang and Qin - 2025 - Degradation of aliphatic and aromatic hydrocarbon mixture by a Rhodococcus sp..txt",
+      "document_id": "cc39a68d3b2fe819",
+      "chunk_count": 13
+    },
+    {
+      "file_name": "Zhang et al. - 2025 - Runoff prediction using combined machine learning models and signal decomposition.txt",
+      "document_id": "4195918462ce6fec",
+      "chunk_count": 20
+    },
+    {
+      "file_name": "Zhanibek et al. - 2025 - Transformation of seasonal distribution of river flow in the Zhaiyk\u2013Caspian water basin under changi.txt",
+      "document_id": "b8f3d8f78fc25773",
+      "chunk_count": 45
+    },
+    {
+      "file_name": "Zhou - 2025 - The extreme climate event change trend forecast in the Huaihe River Basin, China.txt",
+      "document_id": "aabf21e4aa1a636d",
+      "chunk_count": 21
+    }
+  ]
+}
